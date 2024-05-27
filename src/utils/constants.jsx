@@ -1,6 +1,6 @@
-const leetcodeENDPOINT='https://alfa-leetcode-api.onrender.com/karunya_kumar';
-const githubENDPOINT='https://api.github.com/users/KarunyaReddyJ'
-const codeforcesENDPOINT='https://codeforces.com/api/user.info?handles=ProjectNPM'
+const leetcodeENDPOINT='https://alfa-leetcode-api.onrender.com/your_username';
+const githubENDPOINT='https://api.github.com/users/your_username'
+const codeforcesENDPOINT='https://codeforces.com/api/user.info?handles=your_username'
 
 const constants={leetcodeENDPOINT,githubENDPOINT,codeforcesENDPOINT}
 

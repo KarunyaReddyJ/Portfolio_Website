@@ -7,4 +7,5 @@ export default defineConfig({
   server: {
     host: true, // This will use your machine's default IP address
   },
+  base: '/Portfolio_Website/'
 })

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="#ffffff">
+  <!-- Transparent background rectangle -->
+  <rect width="24" height="24" fill="none"/>
+  <!-- Computer screen -->
+  <rect x="5" y="4" width="14" height="10" rx="1.5" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <!-- Keyboard -->
+  <rect x="6" y="14" width="12" height="6" rx="1" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <!-- Code lines -->
+  <line x1="8" y1="6" x2="16" y2="6" stroke="#ffffff" stroke-width="2"/>
+  <line x1="8" y1="8" x2="16" y2="8" stroke="#ffffff" stroke-width="2"/>
+  <line x1="8" y1="10" x2="16" y2="10" stroke="#ffffff" stroke-width="2"/>
+</svg>

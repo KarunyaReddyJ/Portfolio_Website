@@ -5,7 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: true, // This will use your machine's default IP address
+    host: true,
+    'Permissions-Policy': 'interest-cohort=()'
+ // This will use your machine's default IP address
   },
   base: '/Portfolio_Website/'
 })
